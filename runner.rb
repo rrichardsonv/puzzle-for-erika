@@ -1,4 +1,3 @@
-require_relative './emoji_key'
 require_relative './emoji_encode'
 require_relative './emoji_decode'
 

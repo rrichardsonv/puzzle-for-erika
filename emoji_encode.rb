@@ -1,4 +1,6 @@
+require_relative './emoji_key'
+
 def emoji_encode(string)
-  # Encode in here
+  # Encode here!
   string
 end
