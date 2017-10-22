@@ -9,3 +9,5 @@ def run()
   # output = emoji_decode(input)
   puts output;
 end
+
+run
