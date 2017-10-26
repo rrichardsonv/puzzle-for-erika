@@ -1,6 +1,6 @@
 ## Emoji Encoding Challenge
 
-#### Release 1:
+### Release 1:
 
 In _emoji_encode.rb_ write a method that takes in a string and returns it transformed into emoji code! The file _emoji_key.rb_ has a legend for translating string letters, whitespace, and punctuation to emojis. That legend is available in both files. You can use it by using its variable name `KEY`.
 
